@@ -9,9 +9,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Golem AI — Generative Operational Logistics × Enterprise Management",
+  title: "Lyra AI",
   description:
-    "Golem AI is a multi-agent enterprise platform powered by Federated Live Learning, Accountable AI, and proprietary SPY agents that give your enterprise the edge.",
+    "Lyra AI is a multi-agent enterprise platform powered by Federated Live Learning, Accountable AI, and Autonomous agents that give your enterprise the edge.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
