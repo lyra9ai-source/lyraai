@@ -1,1 +1,1 @@
-export { default } from "@/components/lyraai";
+export { default } from "@/components/lyrrai";
